@@ -1,7 +1,7 @@
 {
 		"PluginFileName": "TestUpdate.dll",
         "Version": "1.0.0.1",
-        "DownloadLink": "herix001.github.io/Files/TestUpdate.dll",
+        "DownloadLink": "http://herix001.github.io/Files/TestUpdate.dll",
         "DownloadSite": "",
         "Changelog": "ElectronicObserver Plugins AutoUpdate"
 }
