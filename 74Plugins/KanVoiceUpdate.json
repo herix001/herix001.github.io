@@ -1,7 +1,7 @@
 {
-		"PluginFileName": "KanVoice.dll",
+		"PluginFileName": "KanVoice.plugin",
         "Version": "1.1.0.0",
-        "DownloadLink": "http://herix001.github.io/74Plugins/KanVoice.dll",
+        "DownloadLink": "http://herix001.github.io/74Plugins/KanVoice.plugin",
         "DownloadSite": "",
-        "Changelog": "增加自动更新的功能,更新了语音字幕文件"
+        "Changelog": "1. 增加自动更新的功能\n2. 更新了语音字幕文件"
 }
