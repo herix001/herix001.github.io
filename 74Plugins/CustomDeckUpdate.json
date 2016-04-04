@@ -1,0 +1,7 @@
+{
+		"PluginFileName": "CustomDeck.dll",
+        "Version": "1.1.0.0",
+        "DownloadLink": "http://herix001.github.io/74Plugins/CustomDeck.dll",
+        "DownloadSite": "",
+        "Changelog": "1. 增加自动更新的功能\n2. 现在是弹出式插件,不会再影响到浏览窗口的工具图标"
+}
