@@ -1,7 +1,7 @@
 {
 		"PluginFileName": "KanVoice.plugin",
-        "Version": "1.1.1.0",
+        "Version": "1.1.1.1",
         "DownloadLink": "http://herix001.github.io/74Plugins/KanVoice.plugin",
         "DownloadSite": "http://pan.baidu.com/s/1c0TtoIW",
-        "Changelog": "1. 增加自动更新的功能\n2. 更新了语音字幕文件\n3. 取消了字幕窗口的白边框,适应暗色套"
+        "Changelog": "加入了日文语音字幕,可以在右键菜单里选择"
 }
