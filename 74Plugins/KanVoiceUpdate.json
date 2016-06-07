@@ -1,7 +1,7 @@
 {
 		"PluginFileName": "KanVoice.plugin",
-        "Version": "1.1.1.2",
+        "Version": "1.1.1.3",
         "DownloadLink": "http://herix001.github.io/74Plugins/KanVoice.plugin",
         "DownloadSite": "http://pan.baidu.com/s/1c0TtoIW",
-        "Changelog": "修复暗色套的问题"
+        "Changelog": "增加了日文字幕自动更新的功能"
 }
