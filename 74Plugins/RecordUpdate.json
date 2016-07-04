@@ -1,7 +1,7 @@
 {
 		"PluginFileName": "RecordView.dll",
-        "Version": "1.0.1.1",
+        "Version": "1.0.1.2",
         "DownloadLink": "http://herix001.github.io/74Plugins/RecordView.dll",
         "DownloadSite": "http://pan.baidu.com/s/1kT9zooB",
-        "Changelog": "用于主程序2.3.1.8或更新之下,加入简略的陆航伤害支持"
+        "Changelog": "加入了对开幕反潜的支持"
 }
