@@ -1,7 +1,7 @@
 {
 		"PluginFileName": "ItemUpgrade.dll",
-        "Version": "1.1.0.1",
+        "Version": "1.1.0.2",
         "DownloadLink": "http://herix001.github.io/74Plugins/ItemUpgrade.dll",
         "DownloadSite": "",
-        "Changelog": "加入了夜侦的改修"
+        "Changelog": "加入了Mk7以及各种舰战 舰爆的改修"
 }
