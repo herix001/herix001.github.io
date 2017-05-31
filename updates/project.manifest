@@ -1,0 +1,12 @@
+{
+"packageUrl" : "https://raw.githubusercontent.com/herix001/herix001.github.io/master/updates/download/",
+"remoteManifestUrl" : "https://raw.githubusercontent.com/herix001/herix001.github.io/master/updates/project.manifest",
+"version" : "1.0.0",
+"engineVersion" : "3.0 beta",
+
+"assets" : {
+    "Default.png" : {
+        "md5" : "..."
+    }
+}
+}
